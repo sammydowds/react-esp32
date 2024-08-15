@@ -25,3 +25,4 @@ Could be a jump off point for making a simple UI for future IO projects.
 - I used the esp-idf VS Code extension, which worked out of the box
 - If you see something like `command not found: idf.py`, use the esp-idf extension to open an ESP-IDF terminal (under COMMANDS tab on left side)
 - Files from `/dist` are copied to the [SPIFFS (SPI Flash File System) file system](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/spiffs.html#spiffs-filesystem) embedded on the board. More on [configuring SPIFFS](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/spiffs.html#functions).
+- SPI NOR: [Serial Periphial Interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI) + [Not-or](https://www.techtarget.com/searchstorage/definition/NOR-flash-memory) logic gates use(NOR)
