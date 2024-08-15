@@ -1,0 +1,5 @@
+
+build
+frontend/dist
+sdkconfig
+sdkconfig.old
