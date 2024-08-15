@@ -23,3 +23,4 @@ Could be a jump off point for making a simple UI for future IO projects.
 ## Learnings
 
 - I used the esp-idf VS Code extension, which worked out of the box
+- If you see something like `command not found: idf.py`, use the esp-idf extension to open an ESP-IDF terminal (under COMMANDS tab on left side)
